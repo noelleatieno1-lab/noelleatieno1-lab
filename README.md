@@ -1,6 +1,6 @@
 # Hi, I'm Noelle 👋
 
-I work at the intersection of public policy, civic technology, and software workflows—leveraging structured frameworks and technology to strengthen governance, accountability, and public systems across Africa.
+I work at the intersection of public policy, civic technology, and software workflows; leveraging structured frameworks and technology to strengthen governance, accountability, and public systems across Africa.
 ---
 ### 🔭 What I'm Working On
 - **Direct Democracy Africa:** Executive leadership, organizational strategy, and governance frameworks.
