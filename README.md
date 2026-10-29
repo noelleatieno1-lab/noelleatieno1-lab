@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Noelle 👋
 
-<!--
-**noelleatieno1-lab/noelleatieno1-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at the intersection of public policy, civic technology, and software workflows—leveraging structured frameworks and technology to strengthen governance, accountability, and public systems across Africa.
+---
+### 🔭 What I'm Working On
+- **Direct Democracy Africa:** Executive leadership, organizational strategy, and governance frameworks.
+- **AfyaWatch:** A civic-health technology platform focused on public service accountability and healthcare tracking.
+---
+### 🛠️ Focus Areas
+- **Domains:** Governance, Strategic Development, Policy Analysis, Civic Tech Architecture.
+- **Tools & Workflows:** Low-Code & Python Workflows, API Logic, Digital Product Strategy.
+---
+### 📬 Connect With Me
+- **LinkedIn:** [linkedin.com/in/noellejatieno]
+- **Email:** [noelleatieno1@gmail.com]
